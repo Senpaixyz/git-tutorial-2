@@ -11,4 +11,5 @@ git checkout -b "features/contact" -> to create a new branch (-b means create ne
 
 git checkout master -> to go back to the masters branch
 
+git push --set-upstream origin features/contact -> to push the branch and crate it in the repo
 ````
